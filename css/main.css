@@ -34,7 +34,7 @@ nav a {
   padding: .75em;
 }
 
-header {
+body header {
   flex-direction: row;
   justify-content: space-between;
   background-color: #e2e2e2;
@@ -53,10 +53,11 @@ header h1 {
   margin: .5rem;
   padding: 0 0 0 1em;
 }
- header p {
+
+header p {
   font-size: 1.125rem;
   margin: auto;
- }
+}
 
 a:hover {
   background-color: #e2e2e2;
