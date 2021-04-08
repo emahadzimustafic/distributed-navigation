@@ -59,7 +59,7 @@ header h1 {
  }
 
 a:hover {
-  background-color: none;
+  background-color: #e2e2e2;
   color: #fff;
   border-color: #fff;
 }
